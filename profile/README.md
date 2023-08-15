@@ -1,5 +1,7 @@
 # Welcome to BagelDB! 🚀
 
+[![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
+
 ### **The Future Unfolds**
 
 Hey there! 👋 You've stepped into an exciting world, one where the **AI horizon expands exponentially**. Picture a future where **GPU costs are slashed by an order of magnitude**. Sounds great, right? 
