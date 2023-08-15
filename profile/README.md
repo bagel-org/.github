@@ -1,5 +1,6 @@
-"# Welcome to BagelDB! 🥯🚀
+# Welcome to BagelDB! 🥯🚀
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/bageldb_ai?style=social)](https://twitter.com/bageldb_ai)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
 [![Downloads](https://static.pepy.tech/badge/betabageldb/week)](https://pepy.tech/project/betabageldb)
 
@@ -27,4 +28,4 @@ For those who understand the thrill of new tech, the joy of collaboration, and t
 
 ### **The Future is Bright** 🥯
 
-Our journey has only just begun, and the possibilities are limitless. Together, let's build a brighter, more inclusive, and innovative AI future. Are you ready? Let's get started!"
+Our journey has only just begun, and the possibilities are limitless. Together, let's build a brighter, more inclusive, and innovative AI future. Are you ready? Let's get started!
