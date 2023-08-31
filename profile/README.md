@@ -2,7 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bageldb_ai?style=social)](https://twitter.com/bageldb_ai)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
-[![Downloads](https://static.pepy.tech/badge/betabageldb/week)](https://pepy.tech/project/betabageldb)
 
 ### **The Future Unfolds** 🥯
 
