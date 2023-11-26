@@ -1,6 +1,6 @@
 # Welcome to BagelDB! 🥯🚀
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bageldb_ai?style=social)](https://twitter.com/bageldb_ai)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bageldb_ai?style=social)](https://twitter.com/bagel_network)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
 
 ### **The Future Unfolds** 🥯
