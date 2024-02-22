@@ -1,4 +1,4 @@
-# Welcome to BagelDB! 🥯🚀
+# Welcome to Bagel! 🥯🚀
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bagel_network?style=social)](https://twitter.com/bagel_network)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
