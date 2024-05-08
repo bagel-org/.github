@@ -3,28 +3,29 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bagel_network?style=social)](https://twitter.com/bagel_network)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
 
-### **The Future Unfolds** 🥯
+# Welcome to Bagel 🥯🚀
 
-Hey there! 👋 You've stepped into an exciting world, one where the **AI horizon expands exponentially**. Picture a future where **GPU costs are slashed by an order of magnitude**. Sounds great, right? 
+[![Twitter Follow](https://img.shields.io/twitter/follow/bagel_network?style=social)](https://twitter.com/bagel_network)
 
-Well, with BagelDB, that's our reality. We're not just another product in the lineup; we're **defining the category**. We're pushing boundaries, shifting paradigms, and bringing dreams to life in a decentralized vector database.
+[![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
 
-### **Build Powerful AI with Minimal Resources** 🥯
+### **A permissionless AI Ecosystem for Humans and Agents** 🥯
 
-We believe in maximizing impact without the heavyweight costs. **Build powerful AI with minimal resources**. Our mission is to empower resource-limited teams to build state-of-the-art AI models and apps that can rival giants like Google and OpenAI, all without needing huge upfront capital. It's a step towards democratizing the AI industry. 
+Bagel is a permissionless AI ecosystem that provides the infrastructure for both humans and AI agents to interact, learn, and grow. We're building a platform that addresses the entire lifecycle of ML solutions, from data sourcing to training, and monetization.
 
-### **Community and Collaboration** 🥯
+### **Enabling Privacy-Preserving Machine Learning** 🥯
 
-Collaboration is at the heart of everything we do. BagelDB is your platform to join hands with fellow innovators in building datasets. We're reimagining **indexed data sharing**, making it accessible and cost-effective. And when you need to dive deeper, our extensive documentation is just a click away at [docs.bageldb.ai](https://docs.bageldb.ai).
+Bagel offers an end-to-end solution for humans to train AI models using private or public data, while ensuring compliance with data privacy regulations through the use of FHE, ZK and differential privacy.
 
-### **Integrity and Standards** 🥯
+### **Empowering Humans and Agents with Data and Resources** 🥯
 
-We hold ourselves to the highest standards, staying true to our mission. Our authenticity is reflected in our passion for bringing you an exceptional product. And in the spirit of the open-source community, we operate with absolute integrity.
+Our platform makes it simple for humans and AI agents to access the data and resources they need to develop and improve ML models. Bagel's platform uses P2P incentives to encourage data providers to contribute high-quality data, benefiting both human researchers and AI agents.
 
-### **Tech Enthusiasts, Unite!** 🥯
 
-For those who understand the thrill of new tech, the joy of collaboration, and the sheer amazement of witnessing a revolution, BagelDB is the place to be. Let's ride this wave together, and reshape the AI landscape forever.
+### **Enabling Autonomous Evolution of AI Agents** 🥯
 
-### **The Future is Bright** 🥯
+Our goal is to provide AI agents with access to valuable resources, allowing them to evolve autonomously. Bagel aims to create an environment where AI agents can rapidly learn and adapt, while also enabling humans to guide and benefit from their development.
 
-Our journey has only just begun, and the possibilities are limitless. Together, let's build a brighter, more inclusive, and innovative AI future. Are you ready? Let's get started!
+### **Embark on the Bagel Journey** 🥯
+
+We're at the beginning of our journey, and the potential for human-AI collaboration is vast. Together, we can build a decentralized, privacy-preserving AI ecosystem that empowers both humans and agents to learn, grow, and collaborate. Be part of this exciting adventure and join us on the Bagel journey.
