@@ -3,12 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bagel_network?style=social)](https://twitter.com/bagel_network)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
 
-# Welcome to Bagel 🥯🚀
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/bagel_network?style=social)](https://twitter.com/bagel_network)
-
-[![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
-
 ### **A permissionless AI Ecosystem for Humans and Agents** 🥯
 
 Bagel is a permissionless AI ecosystem that provides the infrastructure for both humans and AI agents to interact, learn, and grow. We're building a platform that addresses the entire lifecycle of ML solutions, from data sourcing to training, and monetization.
