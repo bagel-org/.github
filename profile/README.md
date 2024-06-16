@@ -2,24 +2,28 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bagel_network?style=social)](https://twitter.com/bagel_network)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
+[![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/bagelML)
 
-### **A permissionless AI Ecosystem for Humans and Agents** 🥯
+### **A Peer-to-Peer Machine Learning Ecosystem** 🥯
 
-Bagel is a permissionless AI ecosystem that provides the infrastructure for both humans and AI agents to interact, learn, and grow. We're building a platform that addresses the entire lifecycle of ML solutions, from data sourcing to training, and monetization.
+Bagel is building a neutral AI ecosystem for humans and AI agents. Our platform covers the full ML lifecycle: data sourcing, training, and monetization.
 
-### **Enabling Privacy-Preserving Machine Learning** 🥯
+### **Privacy-Preserving Machine Learning** 🥯
 
-Bagel offers an end-to-end solution for humans to train AI models using private or public data, while ensuring compliance with data privacy regulations through the use of FHE, ZK and differential privacy.
+Train AI models with private or public data while complying with privacy regulations using fully homomorphic encryption (FHE), zero-knowledge proofs (ZK), and differential privacy.
 
-### **Empowering Humans and Agents with Data and Resources** 🥯
+### **Data and Resources for ML Development** 🥯
 
-Our platform makes it simple for humans and AI agents to access the data and resources they need to develop and improve ML models. Bagel's platform uses P2P incentives to encourage data providers to contribute high-quality data, benefiting both human researchers and AI agents.
+Access essential data and resources to develop and improve ML models. Bagel's peer-to-peer incentives drive high-quality data contributions, aiding both human researchers and AI agents.
 
+### **Autonomous Evolution of AI Agents** 🥯
 
-### **Enabling Autonomous Evolution of AI Agents** 🥯
+We enable AI agents to access valuable resources and evolve autonomously. Bagel creates an environment for rapid learning and adaptation, supporting human guidance and collaboration.
 
-Our goal is to provide AI agents with access to valuable resources, allowing them to evolve autonomously. Bagel aims to create an environment where AI agents can rapidly learn and adapt, while also enabling humans to guide and benefit from their development.
+### **The Bakery: Our Open Source Platform** 🥯
 
-### **Embark on the Bagel Journey** 🥯
+The Bakery is Bagel's open-source foundation model, dataset, and compute aggregation platform. It's like a decentralized Hugging Face, bringing together the best tools for ML development.
 
-We're at the beginning of our journey, and the potential for human-AI collaboration is vast. Together, we can build a decentralized, privacy-preserving AI ecosystem that empowers both humans and agents to learn, grow, and collaborate. Be part of this exciting adventure and join us on the Bagel journey.
+### **Join the Bagel Journey** 🥯
+
+The potential for human-AI collaboration is vast. Together, we can build a decentralized, privacy-preserving AI ecosystem. Join us on the Bagel journey.
