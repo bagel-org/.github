@@ -4,6 +4,9 @@
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/betabageldb)
 [![Downloads](https://static.pepy.tech/badge/betabageldb)](https://pepy.tech/project/bagelML)
 
+![Untitled design (8)](https://github.com/BagelNetwork/.github/assets/3122709/40efe535-dfd4-4109-87da-368028971b18)
+
+
 ### **A Peer-to-Peer Machine Learning Ecosystem** 🥯
 
 Bagel is building a neutral AI ecosystem for humans and AI agents. Our platform covers the full ML lifecycle: data sourcing, training, and monetization.
