@@ -7,14 +7,8 @@
 
 ## Repositories
 
-### zkLoRA
-Verifiable distributed training.  
+### zkLoRA - Verifiable distributed training.  
 [![Star zkLoRA](https://img.shields.io/github/stars/bagel-org/zkLoRA?style=for-the-badge&logo=github&label=Star%20zkLoRA&color=E35A2F&logoColor=white)](https://github.com/bagel-org/zkLoRA)
 
-**Repo:** https://github.com/bagel-org/zkLoRA
-
-### bagel-RL
-Modular RL components and distributed learning utilities used at Bagel.  
+### bagel-RL - Modular RL components and distributed learning utilities used at Bagel.  
 [![Star bagel-RL](https://img.shields.io/github/stars/bagel-org/bagel-RL?style=for-the-badge&logo=github&label=Star%20bagel-RL&color=E35A2F&logoColor=white)](https://github.com/bagel-org/bagel-RL)
-
-**Repo:** https://github.com/bagel-org/bagel-RL
